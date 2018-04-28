@@ -7,7 +7,7 @@ A simple chat app built using sockets , express , mongoDB that can be used betwe
 *  npm install
 *  start mongod
 *  npm start
-*  On local machine: localhost:3000
+*  On local machine: localhost:4000
 
 ### To enable multi device chat
 
